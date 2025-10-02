@@ -1,2 +1,9 @@
 este es el primer archivo
 modificacion
+<<<<<<< HEAD
+=======
+
+
+modificacion5
+
+>>>>>>> cf28370e41fa114ba4e5288fec73d0220ac51b53
